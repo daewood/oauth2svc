@@ -5,7 +5,9 @@ Simple oauth2 server. Include ldap client
 # Build
 
 dep init
+
 dep ensure
+
 make linux
 
 # Openldap Setup
