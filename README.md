@@ -2,9 +2,11 @@
 
 Simple oauth2 server. Include ldap client
 
-# Usage
+# Build
 
-[Go Doc](https://github.com/daewood/oauth2svc)
+dep init
+dep ensure
+make linux
 
 # Openldap Setup
 
